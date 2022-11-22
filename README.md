@@ -1,6 +1,6 @@
-# SERUM
-***SE**mantic Data Engineering for **R**obustness **U**nder **M**ultimodal Settings*
-
+# SERUM @ WACV 2023
+### ***SE**mantic Data Engineering for **R**obustness **U**nder **M**ultimodal Settings*
+---
 Website for SERUM Tutorial at WACV 2023, *January 7, 2PM to 5PM* 
 
 Hosted by [Tejas Gokhale](https://www.tejasgokhale.com/) and [Yezhou Yang](https://yezhouyang.engineering.asu.edu/) (Arizona State University)
