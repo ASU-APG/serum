@@ -1,5 +1,5 @@
 # SERUM @ WACV 2023
-### ***SE**mantic Data Engineering for **R**obustness **U**nder **M**ultimodal Settings*
+### *SE*mantic Data Engineering for *R*obustness *U*nder *M*ultimodal Settings
 ---
 Website for SERUM Tutorial at WACV 2023, *January 7, 2PM to 5PM* 
 
