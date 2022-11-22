@@ -1,6 +1,5 @@
 # SERUM
-Website for SERUM Tutorial at WACV 2023
-*January 7, 2--5PM 
+Website for SERUM Tutorial at WACV 2023, *January 7, 2PM to 5PM* 
 
 Hosted by [Tejas Gokhale](https://www.tejasgokhale.com/) and [Yezhou Yang](https://yezhouyang.engineering.asu.edu/) (Arizona State University)
 
@@ -22,4 +21,4 @@ Each section of the tutorial will have two components:
 2. a hands-on demo session where participants can use the data engineering tools during the tutorial, and explore how they could be useful for benchmarking or as data augmentation.
 
 ---
-This website will be updated closer to the event date. 
+*This website will be updated closer to the event date.*
