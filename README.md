@@ -29,7 +29,7 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 		<td> 1400--1415 </td>
 		<td> Welcome and Introduction </td>
 		<td valign="center"> 
-			<img style="float: left;" src="https://test-fac-yezhou-yang.pantheonsite.io/wp-content/uploads/2018/07/CIDSE-Yezhou-Yang-Lab-MAC0089a-small.jpg" width="50%"/>   
+			<img style="padding-right: 5%; float: left;" src="https://test-fac-yezhou-yang.pantheonsite.io/wp-content/uploads/2018/07/CIDSE-Yezhou-Yang-Lab-MAC0089a-small.jpg" width="50%"/>   
 			<div halign="center" valign="center"><a href="https://yezhouyang.engineering.asu.edu/">Yezhou Yang</a> <br/>(Associate Professor, ASU)</div>
 		</td>
 	</tr>
@@ -37,7 +37,7 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 		<td> 1415--1515 </td>
 		<td> Recent Advances in Multimodal Foundation Models </td>
 		<td valign="center"> 
-			<img style="float: left;" src="https://zhegan27.github.io/images/Zhe_new.jpg" width="50%"/>
+			<img style="padding-right: 5%; float: left;" src="https://zhegan27.github.io/images/Zhe_new.jpg" width="50%"/>
 			<div halign="center" valign="center"><a href="https://zhegan27.github.io">Zhe Gan</a> <br/> (Staff Research Scientist, Apple)</div>
 		</td>
 	</tr>
@@ -45,7 +45,7 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 		<td> 1515--1600 </td>
 		<td> Robustness via Knowledge-Guided Data Augmentation and Adversarial Training </td>
 		<td valign="center"> 
-			<img style="float: left;" src="https://www.tejasgokhale.com/images/tg_brickyard.jpg" width="50%"/>
+			<img style="padding-right: 5%; float: left;" src="https://www.tejasgokhale.com/images/tg_brickyard.jpg" width="50%"/>
 			<div halign="center" valign="center"> <a href="https://www.tejasgokhale.com">Tejas Gokhale</a> <br/> (Ph.D. Candidate, ASU) </div>
 		</td>
 	</tr>
@@ -53,7 +53,7 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 		<td> 1600--1620 </td>
 		<td> Enhancing Video Captioning with Commonsense Descriptions </td>
 		<td valign="center">
-			<img style="float: left;" src="https://test-fac-yezhou-yang.pantheonsite.io/wp-content/uploads/2018/07/CIDSE-Yezhou-Yang-Lab-MAC0089a-small.jpg" width="50%"/>
+			<img style="padding-right: 5%; float: left;" src="https://test-fac-yezhou-yang.pantheonsite.io/wp-content/uploads/2018/07/CIDSE-Yezhou-Yang-Lab-MAC0089a-small.jpg" width="50%"/>
 			<div halign="center" valign="center"><a href="https://yezhouyang.engineering.asu.edu/">Yezhou Yang</a> <br/> (Associate Professor, ASU) </div>
 		</td>
 	</tr>
@@ -61,7 +61,7 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 		<td> 1620--1645 </td>
 		<td> Visual-Retriever-Reader for Knowledge-based Question Answering </td>
 		<td valign="center">
-			<img style="float: left;" src="https://luomancs.github.io/images/manluo.jpeg" width="50%"/>
+			<img style="padding-right: 5%; float: left;" src="https://luomancs.github.io/images/manluo.jpeg" width="50%"/>
 			<div halign="center" valign="center"><a href="https://luomancs.github.io">Man Luo</a> <br/> (Ph.D. Candidate, ASU) </div>
 		</td>
 	</tr>
@@ -69,7 +69,7 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 		<td> 1645--1700 </td> 
 		<td> Concluding Remarks</td>
 		<td valign="center">
-			<img src="https://www.tejasgokhale.com/images/tg_brickyard.jpg" width="50%"/>
+			<img style="padding-right: 5%; float: left;" src="https://www.tejasgokhale.com/images/tg_brickyard.jpg" width="50%"/>
 			<div halign="center" valign="center"><a href="https://www.tejasgokhale.com">Tejas Gokhale</a> <br/> (Ph.D. Candidate, ASU) </div>
 		</td>
 	</tr>
