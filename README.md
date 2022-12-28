@@ -34,6 +34,15 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 			(Associate Professor, ASU)
 		</td>
 	</tr>
+	<tr>
+		<td> 1415--1515 </td>
+		<td> Recent Advances in Multimodal Foundation Models </td>
+		<td valign="center"> 
+			<img src="https://zhegan27.github.io/images/Zhe_new.jpg" width="30%"/>
+			<a href="">Zhe Gan</a> <br/>
+			(Staff Research Scientist, Apple)
+		</td>
+	</tr>
 </table>
 
 
