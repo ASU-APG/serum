@@ -16,11 +16,14 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 - help improve the robustness of V+L models,
 - enable weakly supervised learning in cases with limited or no human-annotated datasets,
 - enhance the quality of outputs in generative settings such as captioning, and 
-- guide the design of reference-free evaluation metrics for captioning.
+- guide multi-modal knowledge retrieval for knowledge-based visual question answering.
 
-Each section of the tutorial will have two components:  
-1. a lecture component, where the method will be described and relevant papers and results will be discussed, and
-2. a hands-on demo session where participants can use the data engineering tools during the tutorial, and explore how they could be useful for benchmarking or as data augmentation.
+## Tentative Schedule
+| Time | Topic | Presenter |
+| ---- | ----- | --------- |
+| 1400--1415 | Welcome and Introduction | Yezhou Yang |
+
+
 
 ---
 *This website will be updated closer to the event date.*
