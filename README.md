@@ -41,6 +41,25 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 			<div><a href="">Zhe Gan</a> <br/> (Staff Research Scientist, Apple)</div>
 		</td>
 	</tr>
+	<tr>
+		<td> 1515--1600 </td>
+		<td> Robustness via Knowledge-Guided Data Augmentation and Adversarial Training </td>
+		<td valign="center"> 
+			<img src="https://www.tejasgokhale.com/images/tg_brickyard.jpg" width="30%"/>
+			<div> <a href="">Tejas Gokhale</a> <br/> (Ph.D. Candidate, ASU) </div>
+		</td>
+	</tr>
+	<tr>
+		<td> 1600--1620 </td>
+		<td> Enhancing Video Captioning with Commonsense Descriptions </td>
+		<td valign="center">
+			<img src="https://test-fac-yezhou-yang.pantheonsite.io/wp-content/uploads/2018/07/CIDSE-Yezhou-Yang-Lab-MAC0089a-small.jpg" width="30%"/>
+			<div><a href="">Yezhou Yang</a> <br/> (Associate Professor, ASU) </div>
+		</td>
+	</tr>
+| 1620--1645     | Visual-Retriever-Reader for Knowledge-based Question Answering | <img src="https://luomancs.github.io/images/manluo.jpeg" width="30%"/>    <a href="">Man Luo</a> (Ph.D. Candidate, ASU) |
+| 1645--1700     | Concluding Remarks | <img src="https://www.tejasgokhale.com/images/tg_brickyard.jpg" width="30%"/>Tejas Gokhale (Ph.D. Candidate, ASU) |
+	</tr>
 </table>
 
 
