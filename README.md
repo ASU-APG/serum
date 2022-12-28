@@ -25,10 +25,21 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 		<th> Topic </th>
 		<th> Presenter </th>
 	</tr>
+	<tr>
+		<td> 1400--1415 </td>
+		<td> Welcome and Introduction </td>
+		<td valign="center"> 
+			<img style="float: left;" src="https://test-fac-yezhou-yang.pantheonsite.io/wp-content/uploads/2018/07/CIDSE-Yezhou-Yang-Lab-MAC0089a-small.jpg" width="30%"/>   
+			<a href="">Yezhou Yang</a> <br/>
+			(Associate Professor, ASU)
+		</td>
+	</tr>
 </table>
+
+
 | Time                | Topic                                        | Presenter   |
 | ------------------- | -------------------------------------------- | ----------- |
-| 1400--1415     | Welcome and Introduction  | <img style="float: left;" src="https://test-fac-yezhou-yang.pantheonsite.io/wp-content/uploads/2018/07/CIDSE-Yezhou-Yang-Lab-MAC0089a-small.jpg" width="30%"/>   <a href="">Yezhou Yang</a> (Associate Professor, ASU) |
+| 1400--1415     | Welcome and Introduction  | <img style="float: left;" src="https://test-fac-yezhou-yang.pantheonsite.io/wp-content/uploads/2018/07/CIDSE-Yezhou-Yang-Lab-MAC0089a-small.jpg" width="30%"/>   <div align="center"><a href="">Yezhou Yang</a> (Associate Professor, ASU) |
 | 1415--1515     | Recent Advances in Multimodal Foundation Models | <img src="https://zhegan27.github.io/images/Zhe_new.jpg" width="30%"/>    <a href="">Zhe Gan</a> (Staff Research Scientist, Apple) |
 | 1515--1600     | Robustness via Knowledge-Guided Data Augmentation and Adversarial Training | <img src="https://www.tejasgokhale.com/images/tg_brickyard.jpg" width="30%"/>    <a href="">Tejas Gokhale</a> (Ph.D. Candidate, ASU) |
 | 1600--1620     | Enhancing Video Captioning with Commonsense Descriptions | <img src="https://test-fac-yezhou-yang.pantheonsite.io/wp-content/uploads/2018/07/CIDSE-Yezhou-Yang-Lab-MAC0089a-small.jpg" width="30%"/>    <a href="">Yezhou Yang</a> (Associate Professor, ASU) |
