@@ -19,7 +19,13 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 - guide multi-modal knowledge retrieval for knowledge-based visual question answering.
 
 ## Tentative Schedule
-
+<table>
+	<tr>
+		<th> Time </th>
+		<th> Topic </th>
+		<th> Presenter </th>
+	</tr>
+</table>
 | Time                | Topic                                        | Presenter   |
 | ------------------- | -------------------------------------------- | ----------- |
 | 1400--1415     | Welcome and Introduction  | <img style="float: left;" src="https://test-fac-yezhou-yang.pantheonsite.io/wp-content/uploads/2018/07/CIDSE-Yezhou-Yang-Lab-MAC0089a-small.jpg" width="30%"/>   <a href="">Yezhou Yang</a> (Associate Professor, ASU) |
