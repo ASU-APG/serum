@@ -21,7 +21,7 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 ## Tentative Schedule
 <table>
 	<tr>
-		<th> Time </th>
+		<th width="20%"> Time </th>
 		<th width="50%"> Topic </th>
 		<th> Presenter </th>
 	</tr>
@@ -30,17 +30,15 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 		<td> Welcome and Introduction </td>
 		<td valign="center"> 
 			<img style="float: left;" src="https://test-fac-yezhou-yang.pantheonsite.io/wp-content/uploads/2018/07/CIDSE-Yezhou-Yang-Lab-MAC0089a-small.jpg" width="30%"/>   
-			<a href="">Yezhou Yang</a> <br/>
-			(Associate Professor, ASU)
+			<div><a href="">Yezhou Yang</a> <br/>(Associate Professor, ASU)</div>
 		</td>
 	</tr>
 	<tr>
 		<td> 1415--1515 </td>
 		<td> Recent Advances in Multimodal Foundation Models </td>
 		<td valign="center"> 
-			<img src="https://zhegan27.github.io/images/Zhe_new.jpg" width="30%"/>
-			<a href="">Zhe Gan</a> <br/>
-			(Staff Research Scientist, Apple)
+			<img style="float: left;" src="https://zhegan27.github.io/images/Zhe_new.jpg" width="30%"/>
+			<div><a href="">Zhe Gan</a> <br/> (Staff Research Scientist, Apple)</div>
 		</td>
 	</tr>
 </table>
