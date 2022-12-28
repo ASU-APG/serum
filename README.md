@@ -29,7 +29,7 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 		<td> 1400--1415 </td>
 		<td> Welcome and Introduction </td>
 		<td valign="center"> 
-			<img style="padding-right: 5%; float: left;" src="https://test-fac-yezhou-yang.pantheonsite.io/wp-content/uploads/2018/07/CIDSE-Yezhou-Yang-Lab-MAC0089a-small.jpg" width="50%"/>   
+			<img style="padding-right: 5%; float: center;" src="https://test-fac-yezhou-yang.pantheonsite.io/wp-content/uploads/2018/07/CIDSE-Yezhou-Yang-Lab-MAC0089a-small.jpg" width="50%"/>   
 			<div halign="center" valign="center"><a href="https://yezhouyang.engineering.asu.edu/">Yezhou Yang</a> <br/>(Associate Professor, ASU)</div>
 		</td>
 	</tr>
