@@ -22,7 +22,7 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 <table>
 	<tr>
 		<th> Time </th>
-		<th> Topic </th>
+		<th width="50%"> Topic </th>
 		<th> Presenter </th>
 	</tr>
 	<tr>
