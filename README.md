@@ -21,15 +21,15 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 ## Tentative Schedule
 <table>
 	<tr>
-		<th width="20%"> Time </th>
-		<th width="50%"> Topic </th>
+		<th width="15%"> Time </th>
+		<th width="45%"> Topic </th>
 		<th> Presenter </th>
 	</tr>
 	<tr>
 		<td> 1400--1415 </td>
 		<td> Welcome and Introduction </td>
 		<td valign="center"> 
-			<img style="float: left;" src="https://test-fac-yezhou-yang.pantheonsite.io/wp-content/uploads/2018/07/CIDSE-Yezhou-Yang-Lab-MAC0089a-small.jpg" width="30%"/>   
+			<img style="float: left;" src="https://test-fac-yezhou-yang.pantheonsite.io/wp-content/uploads/2018/07/CIDSE-Yezhou-Yang-Lab-MAC0089a-small.jpg" width="50%"/>   
 			<div><a href="">Yezhou Yang</a> <br/>(Associate Professor, ASU)</div>
 		</td>
 	</tr>
@@ -37,7 +37,7 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 		<td> 1415--1515 </td>
 		<td> Recent Advances in Multimodal Foundation Models </td>
 		<td valign="center"> 
-			<img style="float: left;" src="https://zhegan27.github.io/images/Zhe_new.jpg" width="30%"/>
+			<img style="float: left;" src="https://zhegan27.github.io/images/Zhe_new.jpg" width="50%"/>
 			<div><a href="">Zhe Gan</a> <br/> (Staff Research Scientist, Apple)</div>
 		</td>
 	</tr>
@@ -45,7 +45,7 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 		<td> 1515--1600 </td>
 		<td> Robustness via Knowledge-Guided Data Augmentation and Adversarial Training </td>
 		<td valign="center"> 
-			<img src="https://www.tejasgokhale.com/images/tg_brickyard.jpg" width="30%"/>
+			<img style="float: left;" src="https://www.tejasgokhale.com/images/tg_brickyard.jpg" width="50%"/>
 			<div> <a href="">Tejas Gokhale</a> <br/> (Ph.D. Candidate, ASU) </div>
 		</td>
 	</tr>
@@ -53,24 +53,37 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 		<td> 1600--1620 </td>
 		<td> Enhancing Video Captioning with Commonsense Descriptions </td>
 		<td valign="center">
-			<img src="https://test-fac-yezhou-yang.pantheonsite.io/wp-content/uploads/2018/07/CIDSE-Yezhou-Yang-Lab-MAC0089a-small.jpg" width="30%"/>
+			<img style="float: left;" src="https://test-fac-yezhou-yang.pantheonsite.io/wp-content/uploads/2018/07/CIDSE-Yezhou-Yang-Lab-MAC0089a-small.jpg" width="50%"/>
 			<div><a href="">Yezhou Yang</a> <br/> (Associate Professor, ASU) </div>
 		</td>
 	</tr>
-| 1620--1645     | Visual-Retriever-Reader for Knowledge-based Question Answering | <img src="https://luomancs.github.io/images/manluo.jpeg" width="30%"/>    <a href="">Man Luo</a> (Ph.D. Candidate, ASU) |
-| 1645--1700     | Concluding Remarks | <img src="https://www.tejasgokhale.com/images/tg_brickyard.jpg" width="30%"/>Tejas Gokhale (Ph.D. Candidate, ASU) |
+	<tr>
+		<td> 1620--1645 </td>
+		<td> Visual-Retriever-Reader for Knowledge-based Question Answering </td>
+		<td valign="center">
+			<img style="float: left;" src="https://luomancs.github.io/images/manluo.jpeg" width="50%"/>
+			<div><a href="">Man Luo</a> <br/> (Ph.D. Candidate, ASU) </div>
+		</td>
+	</tr>
+	<tr>
+		<td> 1645--1700 </td> 
+		<td> Concluding Remarks</td>
+		<td valign="center">
+			<img src="https://www.tejasgokhale.com/images/tg_brickyard.jpg" width="50%"/>
+			<div><a href="">Tejas Gokhale</a> <br/> (Ph.D. Candidate, ASU) </div>
+		</td>
 	</tr>
 </table>
 
 
 | Time                | Topic                                        | Presenter   |
 | ------------------- | -------------------------------------------- | ----------- |
-| 1400--1415     | Welcome and Introduction  | <img style="float: left;" src="https://test-fac-yezhou-yang.pantheonsite.io/wp-content/uploads/2018/07/CIDSE-Yezhou-Yang-Lab-MAC0089a-small.jpg" width="30%"/>   <div align="center"><a href="">Yezhou Yang</a> (Associate Professor, ASU) |
-| 1415--1515     | Recent Advances in Multimodal Foundation Models | <img src="https://zhegan27.github.io/images/Zhe_new.jpg" width="30%"/>    <a href="">Zhe Gan</a> (Staff Research Scientist, Apple) |
-| 1515--1600     | Robustness via Knowledge-Guided Data Augmentation and Adversarial Training | <img src="https://www.tejasgokhale.com/images/tg_brickyard.jpg" width="30%"/>    <a href="">Tejas Gokhale</a> (Ph.D. Candidate, ASU) |
-| 1600--1620     | Enhancing Video Captioning with Commonsense Descriptions | <img src="https://test-fac-yezhou-yang.pantheonsite.io/wp-content/uploads/2018/07/CIDSE-Yezhou-Yang-Lab-MAC0089a-small.jpg" width="30%"/>    <a href="">Yezhou Yang</a> (Associate Professor, ASU) |
-| 1620--1645     | Visual-Retriever-Reader for Knowledge-based Question Answering | <img src="https://luomancs.github.io/images/manluo.jpeg" width="30%"/>    <a href="">Man Luo</a> (Ph.D. Candidate, ASU) |
-| 1645--1700     | Concluding Remarks | <img src="https://www.tejasgokhale.com/images/tg_brickyard.jpg" width="30%"/>Tejas Gokhale (Ph.D. Candidate, ASU) |
+| 1400--1415     | Welcome and Introduction  | <img style="float: left;" src="https://test-fac-yezhou-yang.pantheonsite.io/wp-content/uploads/2018/07/CIDSE-Yezhou-Yang-Lab-MAC0089a-small.jpg" width="50%"/>   <div align="center"><a href="">Yezhou Yang</a> (Associate Professor, ASU) |
+| 1415--1515     | Recent Advances in Multimodal Foundation Models | <img src="https://zhegan27.github.io/images/Zhe_new.jpg" width="50%"/>    <a href="">Zhe Gan</a> (Staff Research Scientist, Apple) |
+| 1515--1600     | Robustness via Knowledge-Guided Data Augmentation and Adversarial Training | <img src="https://www.tejasgokhale.com/images/tg_brickyard.jpg" width="50%"/>    <a href="">Tejas Gokhale</a> (Ph.D. Candidate, ASU) |
+| 1600--1620     | Enhancing Video Captioning with Commonsense Descriptions | <img src="https://test-fac-yezhou-yang.pantheonsite.io/wp-content/uploads/2018/07/CIDSE-Yezhou-Yang-Lab-MAC0089a-small.jpg" width="50%"/>    <a href="">Yezhou Yang</a> (Associate Professor, ASU) |
+| 1620--1645     | Visual-Retriever-Reader for Knowledge-based Question Answering | <img src="https://luomancs.github.io/images/manluo.jpeg" width="50%"/>    <a href="">Man Luo</a> (Ph.D. Candidate, ASU) |
+| 1645--1700     | Concluding Remarks | <img src="https://www.tejasgokhale.com/images/tg_brickyard.jpg" width="50%"/>Tejas Gokhale (Ph.D. Candidate, ASU) |
 
 
 
