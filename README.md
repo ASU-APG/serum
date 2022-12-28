@@ -21,10 +21,12 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 ## Tentative Schedule
 
 | Time       | Topic                     | Presenter   |
-| ---------- | ----- | ----------------- | ----------- |
+| ---------- | ------------------------- | ----------- |
 | 1400--1415 | Welcome and Introduction  | Yezhou Yang (ASU) |
-| 1415--1515 | Recent Advances in Multimodal Foundation Models | <p align="center"><img src="https://zhegan27.github.io/images/Zhe_new.jpg"/ width="350"> </p> Zhe Gan (Apple) |
+| 1415--1515 | Recent Advances in Multimodal Foundation Models | <p align="center"><img src="https://zhegan27.github.io/images/Zhe_new.jpg" width="350"/> </p> Zhe Gan (Apple) |
 | 1515--1600 | Robustness via Knowledge-Guided Data Augmentation and Adversarial Training | Tejas Gokhale (ASU) |
+| 1600--1620 | Enhancing Video Captioning with Commonsense Descriptions | Yezhou Yang (ASU) |
+| 1620--1640 | Visual-Retriever-Reader for Knowledge-based Question Answering | Man Luo (ASU) |
 
 
 
