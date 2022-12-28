@@ -30,7 +30,7 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 		<td> Welcome and Introduction </td>
 		<td valign="center"> 
 			<img style="float: left;" src="https://test-fac-yezhou-yang.pantheonsite.io/wp-content/uploads/2018/07/CIDSE-Yezhou-Yang-Lab-MAC0089a-small.jpg" width="50%"/>   
-			<div><a href="">Yezhou Yang</a> <br/>(Associate Professor, ASU)</div>
+			<div><a href="https://yezhouyang.engineering.asu.edu/">Yezhou Yang</a> <br/>(Associate Professor, ASU)</div>
 		</td>
 	</tr>
 	<tr>
@@ -38,7 +38,7 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 		<td> Recent Advances in Multimodal Foundation Models </td>
 		<td valign="center"> 
 			<img style="float: left;" src="https://zhegan27.github.io/images/Zhe_new.jpg" width="50%"/>
-			<div><a href="">Zhe Gan</a> <br/> (Staff Research Scientist, Apple)</div>
+			<div><a href="https://zhegan27.github.io">Zhe Gan</a> <br/> (Staff Research Scientist, Apple)</div>
 		</td>
 	</tr>
 	<tr>
@@ -46,7 +46,7 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 		<td> Robustness via Knowledge-Guided Data Augmentation and Adversarial Training </td>
 		<td valign="center"> 
 			<img style="float: left;" src="https://www.tejasgokhale.com/images/tg_brickyard.jpg" width="50%"/>
-			<div> <a href="">Tejas Gokhale</a> <br/> (Ph.D. Candidate, ASU) </div>
+			<div> <a href="https://www.tejasgokhale.com">Tejas Gokhale</a> <br/> (Ph.D. Candidate, ASU) </div>
 		</td>
 	</tr>
 	<tr>
@@ -54,7 +54,7 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 		<td> Enhancing Video Captioning with Commonsense Descriptions </td>
 		<td valign="center">
 			<img style="float: left;" src="https://test-fac-yezhou-yang.pantheonsite.io/wp-content/uploads/2018/07/CIDSE-Yezhou-Yang-Lab-MAC0089a-small.jpg" width="50%"/>
-			<div><a href="">Yezhou Yang</a> <br/> (Associate Professor, ASU) </div>
+			<div><a href="https://yezhouyang.engineering.asu.edu/">Yezhou Yang</a> <br/> (Associate Professor, ASU) </div>
 		</td>
 	</tr>
 	<tr>
@@ -62,7 +62,7 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 		<td> Visual-Retriever-Reader for Knowledge-based Question Answering </td>
 		<td valign="center">
 			<img style="float: left;" src="https://luomancs.github.io/images/manluo.jpeg" width="50%"/>
-			<div><a href="">Man Luo</a> <br/> (Ph.D. Candidate, ASU) </div>
+			<div><a href="https://luomancs.github.io">Man Luo</a> <br/> (Ph.D. Candidate, ASU) </div>
 		</td>
 	</tr>
 	<tr>
@@ -70,7 +70,7 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 		<td> Concluding Remarks</td>
 		<td valign="center">
 			<img src="https://www.tejasgokhale.com/images/tg_brickyard.jpg" width="50%"/>
-			<div><a href="">Tejas Gokhale</a> <br/> (Ph.D. Candidate, ASU) </div>
+			<div><a href="https://www.tejasgokhale.com">Tejas Gokhale</a> <br/> (Ph.D. Candidate, ASU) </div>
 		</td>
 	</tr>
 </table>
