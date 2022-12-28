@@ -76,16 +76,6 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 </table>
 
 
-| Time                | Topic                                        | Presenter   |
-| ------------------- | -------------------------------------------- | ----------- |
-| 1400--1415     | Welcome and Introduction  | <img style="float: left;" src="https://test-fac-yezhou-yang.pantheonsite.io/wp-content/uploads/2018/07/CIDSE-Yezhou-Yang-Lab-MAC0089a-small.jpg" width="50%"/>   <div align="center"><a href="">Yezhou Yang</a> (Associate Professor, ASU) |
-| 1415--1515     | Recent Advances in Multimodal Foundation Models | <img src="https://zhegan27.github.io/images/Zhe_new.jpg" width="50%"/>    <a href="">Zhe Gan</a> (Staff Research Scientist, Apple) |
-| 1515--1600     | Robustness via Knowledge-Guided Data Augmentation and Adversarial Training | <img src="https://www.tejasgokhale.com/images/tg_brickyard.jpg" width="50%"/>    <a href="">Tejas Gokhale</a> (Ph.D. Candidate, ASU) |
-| 1600--1620     | Enhancing Video Captioning with Commonsense Descriptions | <img src="https://test-fac-yezhou-yang.pantheonsite.io/wp-content/uploads/2018/07/CIDSE-Yezhou-Yang-Lab-MAC0089a-small.jpg" width="50%"/>    <a href="">Yezhou Yang</a> (Associate Professor, ASU) |
-| 1620--1645     | Visual-Retriever-Reader for Knowledge-based Question Answering | <img src="https://luomancs.github.io/images/manluo.jpeg" width="50%"/>    <a href="">Man Luo</a> (Ph.D. Candidate, ASU) |
-| 1645--1700     | Concluding Remarks | <img src="https://www.tejasgokhale.com/images/tg_brickyard.jpg" width="50%"/>Tejas Gokhale (Ph.D. Candidate, ASU) |
-
-
 
 ---
 *This website will be updated closer to the event date.*
