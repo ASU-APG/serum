@@ -5,7 +5,7 @@ Website for SERUM Tutorial at WACV 2023, *January 7, 2PM to 5PM*
 
 Hosted by [Tejas Gokhale](https://www.tejasgokhale.com/) and [Yezhou Yang](https://yezhouyang.engineering.asu.edu/) (Arizona State University)
 
-## Description
+## Agenda
 In the past decade, we have witnessed a paradigm shift in computer vision -- the connection between vision and language (V+L) is now an integral part of AI.
 V+L comprises of human-interactive tasks such as visual question answering, image captioning, visual dialog, visual entailment and grounding, V+L navigation, and text-to-image generation.
 This field has already had an impact on other research communities such as NLP, robotics, graphics, and direct industrial implications for software, arts, media, and journalism.
@@ -22,7 +22,7 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 <table>
 	<tr>
 		<th width="15%"> Time (UTC-10) </th>
-		<th width="45%"> Topic </th>
+		<th width="40%"> Topic </th>
 		<th> Presenter </th>
 	</tr>
 	<tr>
