@@ -19,9 +19,10 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 - guide multi-modal knowledge retrieval for knowledge-based visual question answering.
 
 ## Tentative Schedule
-| Time | Topic | Presenter |
-| ---- | ----- | --------- |
-| 1400--1415 | Welcome and Introduction | Yezhou Yang |
+
+| Time       | Topic                     | Presenter   |
+| ---------- | ----- | ----------------- | ----------- |
+| 1400--1415 | Welcome and Introduction  | Yezhou Yang |
 
 
 
