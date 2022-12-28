@@ -21,7 +21,7 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 ## Tentative Schedule
 <table>
 	<tr>
-		<th width="15%"> Time </th>
+		<th width="15%"> Time (GMT-10) </th>
 		<th width="45%"> Topic </th>
 		<th> Presenter </th>
 	</tr>
