@@ -79,3 +79,8 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 
 ---
 *This website will be updated closer to the event date.*
+
+
+```
+We acknowledge support from NSF Robust Intelligence grant #2132724
+```
