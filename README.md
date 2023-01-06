@@ -43,7 +43,7 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 	</tr>
 	<tr>
 		<td> 1515--1600 </td>
-		<td> Robustness via Knowledge-Guided Data Augmentation and Adversarial Training </td>
+		<td> Robust Semantic Vision with Knowledge-Guided Data Transformation </td>
 		<td valign="center"> 
 			<img style="padding-right: 5%; float: left;" src="https://www.tejasgokhale.com/images/tg_brickyard.jpg" width="50%"/>
 			 <a href="https://www.tejasgokhale.com">Tejas Gokhale</a> <br/> (Ph.D. Candidate, ASU)
