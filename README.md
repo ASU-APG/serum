@@ -35,7 +35,7 @@ In this tutorial, we will show how semantic data transformation -- i.e. data tra
 	</tr>
 	<tr>
 		<td> 1415--1515 </td>
-		<td> Recent Advances in Multimodal Foundation Models </td>
+		<td> <b> Plenary Talk:</b><br/>Towards Building Multimodal Foundation Models </td>
 		<td valign="center"> 
 			<img style="padding-right: 5%; float: left;" src="https://zhegan27.github.io/images/Zhe_new.jpg" width="50%"/>
 			<a href="https://zhegan27.github.io">Zhe Gan</a> <br/> (Staff Research Scientist, Apple
